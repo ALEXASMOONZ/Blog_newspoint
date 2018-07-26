@@ -1,0 +1,13 @@
+@media (max-width: 768px){
+		header .header-top{
+			float: none;
+			text-align: center;
+			width: 100%;
+		}
+		main-menu.form button{
+			display: block;
+			width: 100%;
+		}
+		
+	}
+}
